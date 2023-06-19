@@ -42,7 +42,7 @@ To become a member of [Company Name], you must meet the following criteria:
 - [Membership Requirement 2]
 - ...
 
-The membership application process includes the submission of relevant documents, payment of applicable fees, and review by our team.
+The membership application process includes the submission of relevant documents, payment of applicable fees, and review by CCS Membership.
 
 ## 💼 Share Distribution and Ownership
 
