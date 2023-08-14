@@ -19,6 +19,7 @@ Payment Options
 - Call Quorum to vote on something
 - Vote on membership issue
 - 1 Class M share, filed with the SEC
+- Vote on Bylaw Amendments
 
 ### Responsibilities
 
@@ -26,3 +27,6 @@ Payment Options
 - Pay Dues
 - Share in the cost of operating costs as voted on by membership.
 
+## Bylaw Amendments
+
+- Opened as PR requests, and voted on by membership through confirmation in the [changelog.md](changelog.md)
