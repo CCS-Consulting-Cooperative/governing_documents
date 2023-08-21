@@ -1,4 +1,4 @@
-# [CCS Consulting Cooperative Articles of Association]
+# [CCS Consulting Cooperative]
 
 >
 >[June 19th 2023] Note:
@@ -26,7 +26,9 @@ To ensure clarity and consistency throughout this document, the following terms 
 
 ## 🧩 What are the Articles of Incorporation?
 
-The purpose of this document is to establish the terms and conditions under which [Company Name] operates its services. It outlines the responsibilities, rights, and obligations of all parties involved.
+The articles of incorporation are the documents filed with the state of Minnesota:
+
+See: https://discord.com/channels/1111646437894262844/1116107254068936765/1116107683058159647
 
 ## 🎯 Purpose of CCS Consulting
 
@@ -36,37 +38,36 @@ The corporation is democratically controlled and is not organized to make a prof
 
 ## 👥 Membership
 
-To become a member of [Company Name], you must meet the following criteria:
+To become a member of CCS Consulting Cooperative, you must meet the following criteria:
 
-- [Membership Requirement 1]
-- [Membership Requirement 2]
+- Pay your dues
+- Follow the bylaws
 - ...
 
 The membership application process includes the submission of relevant documents, payment of applicable fees, and review by CCS Membership.
 
 ## 💼 Share Distribution and Ownership
 
-Shares within [Company Name] are distributed and owned according to the following guidelines:
+TODO Shares within CCS Consulting Cooperative are distributed and owned according to the following guidelines:
 
-- [Guideline 1]
-- [Guideline 2]
+- TODO file with the SEC for the private sale of membership shares
+- 
 - ...
 
-Ownership of shares may be transferred subject to approval by the cooperative.
+Ownership of shares may be purchased subject to approval by the cooperative, and filed properly with the SEC upon receipt of purchase.
 
 ## 🗂 Governance
 
-[Company Name] is governed by a board of directors and operates under the following guidelines:
+CCS Consulting Cooperative is governed by a board of directors and operates under the following guidelines:
 
-- [Guideline 1]
-- [Guideline 2]
+- [Bylaws](./bylaws.md)
 - ...
 
-Decisions regarding [Company Name]'s operations, policies, and future directions are made collectively by the board and members.
+Decisions regarding CCS's operations, policies, and future directions are made collectively by the board and members.
 
 ## 📅 Meetings
 
-Various types of meetings are held to facilitate communication and decision-making within [Company Name]:
+Various types of meetings are held to facilitate communication and decision-making within CCS:
 
 - General meetings
 - Board meetings
@@ -76,7 +77,7 @@ These meetings adhere to specific protocols, including notice requirements, quor
 
 ## 💰 Financial Matters
 
-Financial matters within [Company Name] include:
+Financial matters within CCS include:
 
 - Capital contributions
 - Profit distribution
@@ -88,12 +89,12 @@ Detailed information regarding these matters is outlined in this section.
 
 ## 📝 Amendments
 
-This document may be amended or revised from time to time. Amendments require the approval of [Percentage/Number] of the members and will be communicated through official channels.
+This document may be amended or revised from time to time. Amendments require the approval of 75% of the members and will be communicated through official channels.
 
 ## ⚖️ Dispute Resolution
 
-In the event of a dispute among members, [Company Name] promotes the use of mediation or arbitration to resolve conflicts in a fair and efficient manner.
+In the event of a dispute among members, CCS promotes the use of mediation or arbitration to resolve conflicts in a fair and efficient manner.
 
 ## 📚 Governing Law
 
-This legal document is governed by the laws of [Jurisdiction]. Any legal proceedings related to this document shall take place in the courts of [Jurisdiction].
+This legal document is governed by the laws of Minnesota. Any legal proceedings related to this document shall take place in the courts of Minnesota.
