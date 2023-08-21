@@ -6,6 +6,7 @@ This file contains the changes, as well as confirmation of membership.
 2023-08-21
 
 - ( Bylaw update ) add link to where 
+- ( Election folder ) adds a folder for the election results
 
 2023-08-14
 
