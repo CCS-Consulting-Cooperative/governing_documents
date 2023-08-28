@@ -11,7 +11,6 @@ Welcome to CCS Consulting: A Place For Steaks
 The cooperative shall be structured to form an equitable organization for both contracting and building software: sharing surplus, liabilities, operating expenses. 
 The cooperative is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its members as patrons.
 
-
 ## 📖 Table of Contents
 
 - [Introduction](#introduction)
