@@ -145,7 +145,7 @@ No member may be expelled or suspended, and no membership or memberships may be 
 
 A member may for any lawful reason be expelled from the cooperative by a vote of seventy-five percent (75%) or greater of the members at a duly called meeting at which a quorum is present.
 
-The member must be given 15 days’ prior notice of the expulsion, suspension, or termination and the reasons therefor and the member shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
+The member must be given 15 days’ prior notice of the expulsion, suspension, or termination and the reasons therefore and the member shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
 
 
 ## Annual Meeting
