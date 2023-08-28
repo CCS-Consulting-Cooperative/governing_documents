@@ -74,7 +74,7 @@ It is a governing document and provides more actionable details for unblocking m
 
 The articles of incorporation will be amended, such that no shares are to be made available. Ownership is based on membership, and the bylaws.
 
-Ownership distribution happens at the end of year. Surplus is determined by subtracting 
+Ownership distribution happens at the end of year. Surplus is determined by subtracting.
 
 ## 🗂 Governance
 
