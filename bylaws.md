@@ -147,7 +147,6 @@ A member may for any lawful reason be expelled from the cooperative by a vote of
 
 The member must be given 15 days’ prior notice of the expulsion, suspension, or termination and the reasons therefore and the member shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
 
-
 ## Annual Meeting
 
 An annual meeting of members shall be held on the first Thursday in November at 11:00 a.m. at the principal office of the cooperative.  If the day fixed for the annual meeting falls on a legal holiday, the meeting shall be held at the same time and place on the following business day.
@@ -158,16 +157,13 @@ In the event that elections are required due to any change in the provision that
 
 Special meetings of members for any lawful purpose may be called by the board, the president, or by 5 percent or more of the members.  The procedure for calling a special meeting shall be as follows: (1) when the board, the president, or 5 percent or more of the members decide to call a special meeting, he/she/they shall submit a request in writing to the cooperative addressed to the attention of the president or secretary and (2) the officer that receives the request, within 20 days after receipt, shall cause notice to be given to the members entitled to vote that a meeting will be held at a time fixed by the board not less than 35 nor more than 90 days after the receipt of the request.  
 
-
 ## Participation by Electronic Transmission
 
 If authorized by the board of directors in its sole discretion, and subject to the consent of any members so participating, members not physically present in person at a meeting of members may, by electronic transmission by and to the cooperative or by electronic video screen communication, participate in a meeting, be deemed present in person, and vote at a meeting of members, provided that the cooperative implements measures to provide members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting concurrently with those proceedings, and a record of any vote or action of any members participating by electronic transmission is maintained by the cooperative.  
 
 Any request by the cooperative to a member for consent to conduct a meeting of members by electronic transmission by and to the cooperative shall include a notice that absent consent of the member, the meeting shall be held at a physical location.
 
-
 ## Notice
-
 
 Whenever the members are required to take any action at a meeting, a written notice of the meeting shall be given not less than 10 nor more than 90 days before the date of the meeting to each member who, on the record date for notice of the meeting, is entitled to vote thereat; provided, however, that if notice is given by mail, and the notice is not mailed by first-class, registered, or certified mail, that notice shall be given not less than 7 days before the meeting.  
 
@@ -192,6 +188,3 @@ In the absence of a quorum, any meeting of members may be adjourned from time to
 
 Regular meetings will be held the first Thursday of every month at 11:00 a.m. at the principal office of the cooperative.  If the day fixed for the regular meeting falls on a legal holiday, the meeting shall be held at the same time and place on the next business day.
 Special meetings of the board shall be held upon four days’ notice by first-class mail or 48 hours’ notice delivered personally, by telephone, including a voice messaging system, or by electronic transmission by the cooperative.  A notice, or waiver of notice, need not specify the purpose of any regular or special meeting of the board.
-
-
-
