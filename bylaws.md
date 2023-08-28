@@ -35,8 +35,6 @@ To ensure clarity and consistency throughout this document, the following terms 
 - H. **[Patron(s)]**: refers to the active customers or clients of the cooperative, which could include members and non-members. Patrons transact with the cooperative, contributing to its business activities. The treatment of members as patrons and distribution of benefits based on their patronage is stipulated in Article I.
 - I. **[Investor(s)]**: means any individual, cooperative, partnership, trust, or other entity that has invested capital into the cooperative. Investors may or may not have membership or patron rights in the cooperative, depending on the specific terms of their investment agreement. The role and rights of investors in the cooperative are subject to both these bylaws and the applicable investment agreements.
 - J. **[Patronage Credit(s)]**: refer to the credits allotted by the cooperative to Member(s) for internal projects.
-- **[]**: 
-- **[]**:
 
 ## 🧩 What are the Articles of Incorporation?
 
@@ -48,7 +46,6 @@ See: https://discord.com/channels/1111646437894262844/1116107254068936765/111610
 
 The corporation shall be organized and shall conduct its business primarily for the mutual benefit of its members as patrons of the corporation.  The earnings, savings, or benefits of the corporation shall be used for the general welfare of the members or shall be proportionately and equitably distributed to its members as patrons, based upon their patronage credits of the corporation.
 The corporation is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its members as patrons.
-
 
 ## 👥 Membership
 The cooperative shall have one (1) class of members ( 🔍 Definitions Section G ).
