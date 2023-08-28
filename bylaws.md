@@ -85,7 +85,7 @@ CCS Consulting Cooperative is governed by a board of directors and operates unde
 
 Decisions regarding CCS's operations, policies, and future directions are made collectively by the board and members.
 
-### Stuff that needs a vote:
+### Items Requiring Votes by Members:
 
 * Acceptance of members;
 * Election of directors; and
