@@ -39,19 +39,19 @@ I vote in favor of the bylaws as outlined in the following commit: 3e0f446ee1905
 ### Board Member
 - [ ] Robert Snodgrass
 - [ ] Joshua Benson
-- [ ] James Munsch
+- [X] James Munsch
 - [ ] Garret Fitzgerald
 - [ ] Write-In: ____________
 
 ### Board Member Position 2
 - [ ] Robert Snodgrass
-- [ ] Joshua Benson
+- [X] Joshua Benson
 - [ ] James Munsch
 - [ ] Garret Fitzgerald
 - [ ] Write-In: ____________
 
 ### Board Member Position 3
-- [ ] Robert Snodgrass
+- [X] Robert Snodgrass
 - [ ] Joshua Benson
 - [ ] James Munsch
 - [ ] Garret Fitzgerald
@@ -62,7 +62,7 @@ I vote in favor of the bylaws as outlined in the following commit: 3e0f446ee1905
 - [ ] Joshua Benson
 - [ ] James Munsch
 - [ ] Garret Fitzgerald
-- [ ] Write-In: ____________
+- [X] Write-In: William Bausman
 
 ### Board Member Position 5
 
@@ -73,13 +73,13 @@ Vacant
 ### President
 - [ ] Robert Snodgrass
 - [ ] Joshua Benson
-- [ ] James Munsch
+- [X] James Munsch
 - [ ] Garret Fitzgerald
 - [ ] Write-In: ____________
 
 ### Vice President
 - [ ] Robert Snodgrass
-- [ ] Joshua Benson
+- [X] Joshua Benson
 - [ ] James Munsch
 - [ ] Garret Fitzgerald
 - [ ] Write-In: ____________
@@ -88,7 +88,7 @@ Vacant
 - [ ] Robert Snodgrass
 - [ ] Joshua Benson
 - [ ] James Munsch
-- [ ] Garret Fitzgerald
+- [X] Garret Fitzgerald
 - [ ] Write-In: ____________
 
 https://www.revisor.mn.gov/statutes/cite/308A.305
