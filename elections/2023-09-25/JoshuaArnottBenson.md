@@ -71,9 +71,9 @@ Vacant
 # Officers Election
 
 ### President
-- [ ] Robert Snodgrass
+- [X] Robert Snodgrass
 - [ ] Joshua Benson
-- [X] James Munsch
+- [ ] James Munsch
 - [ ] Garret Fitzgerald
 - [ ] Write-In: ____________
 
@@ -87,8 +87,8 @@ Vacant
 ### Secretary Treasurer
 - [ ] Robert Snodgrass
 - [ ] Joshua Benson
-- [ ] James Munsch
-- [X] Garret Fitzgerald
+- [X] James Munsch
+- [ ] Garret Fitzgerald
 - [ ] Write-In: ____________
 
 https://www.revisor.mn.gov/statutes/cite/308A.305
