@@ -33,25 +33,25 @@
 
 I vote in favor of the bylaws as outlined in the following commit: 3e0f446ee19059d36dc01d871dcd61f717827547 as shown in the current PR:
 
-- [X] Yes
+- [ ] Yes
 - [ ] No
 
 ### Board Member
 - [ ] Robert Snodgrass
 - [ ] Joshua Benson
-- [ ] James Munsch
+- [X] James Munsch
 - [ ] Garret Fitzgerald
 - [ ] Write-In: ____________
 
 ### Board Member Position 2
 - [ ] Robert Snodgrass
-- [ ] Joshua Benson
+- [X] Joshua Benson
 - [ ] James Munsch
 - [ ] Garret Fitzgerald
 - [ ] Write-In: ____________
 
 ### Board Member Position 3
-- [ ] Robert Snodgrass
+- [X] Robert Snodgrass
 - [ ] Joshua Benson
 - [ ] James Munsch
 - [ ] Garret Fitzgerald
@@ -62,7 +62,7 @@ I vote in favor of the bylaws as outlined in the following commit: 3e0f446ee1905
 - [ ] Joshua Benson
 - [ ] James Munsch
 - [ ] Garret Fitzgerald
-- [ ] Write-In: ____________
+- [X] Write-In: William Bausman
 
 ### Board Member Position 5
 
@@ -71,7 +71,7 @@ Vacant
 # Officers Election
 
 ### President
-- [ ] Robert Snodgrass
+- [X] Robert Snodgrass
 - [ ] Joshua Benson
 - [ ] James Munsch
 - [ ] Garret Fitzgerald
@@ -79,7 +79,7 @@ Vacant
 
 ### Vice President
 - [ ] Robert Snodgrass
-- [ ] Joshua Benson
+- [X] Joshua Benson
 - [ ] James Munsch
 - [ ] Garret Fitzgerald
 - [ ] Write-In: ____________
@@ -87,7 +87,7 @@ Vacant
 ### Secretary Treasurer
 - [ ] Robert Snodgrass
 - [ ] Joshua Benson
-- [ ] James Munsch
+- [X] James Munsch
 - [ ] Garret Fitzgerald
 - [ ] Write-In: ____________
 
