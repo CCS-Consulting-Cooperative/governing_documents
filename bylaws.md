@@ -2,6 +2,7 @@
 
 >[June 19th 2023] Note:
 > This document is a draft. It is not legally binding until all registered CCS members vote in favor of its adoption
+>
 > [October 25 2023] Note:
 > This document was voted on, and adopted.
 
