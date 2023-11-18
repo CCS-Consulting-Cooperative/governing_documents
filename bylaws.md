@@ -62,6 +62,8 @@ The membership application process includes the submission of relevant documents
 
 Payment Options 
 1) 1 Patronage Credit / Month ( picking up a task )
+   a) Any work that moves a project forward excluding general weekly meetings, and board meetings.
+      For example: competitor analysis, copy writing, a Pull request with code changes, etc, reformatting stuff, or any micro startup related work that moves those sub projects forward.
 2) $15 USD / Month [https://buy.stripe.com/cN2dTt0kd9bgfuwbII](https://buy.stripe.com/cN2dTt0kd9bgfuwbII)
 
 ## 🧩 What are the Bylaws?
