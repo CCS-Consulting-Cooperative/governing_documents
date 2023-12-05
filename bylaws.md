@@ -140,7 +140,7 @@ There shall be no cumulative voting.
 
 ## Member Resignation
 
-A member shall have the right to resign as a member of the cooperative by filing with the secretary of the cooperative a written notice of resignation.  The resignation shall become effective immediately without any action on the part of the cooperative.  An individual will not be allowed to work for the cooperative for one month following voluntary termination of membership unless her or his membership is reinstated by the cooperative.  Resignation shall not relieve the resigning member from any obligation for charges incurred, dues, assessments, or fees, and this section shall not diminish any right of the cooperative to enforce any such obligation or obtain damages for its breach.
+A member shall have the right to resign as a member of the cooperative by filing with the secretary of the cooperative a written notice of resignation. The resignation shall become effective immediately without any action on the part of the cooperative. An individual will not be allowed to work for the cooperative for one month following voluntary termination of membership unless her or his membership is reinstated by the cooperative. Resignation shall relieve the resigning member of paying membership dues.
 
 ##  Removal of Members
 
