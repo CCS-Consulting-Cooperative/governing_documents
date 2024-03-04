@@ -60,11 +60,15 @@ The membership application process includes the submission of relevant documents
 
 ### Monthly Dues 
 
-Payment Options 
-1) 1 Patronage Credit / Month ( picking up a task )
+MONTHLY_DUES (Last update Mar 2): $37.50 USD / Month
+
+#### Payment Options 
+
+1) MONTHLY_DUES / 15 / Month = 2.5 Credits ( picking up a task )
    a) Any work that moves a project forward excluding general weekly meetings, and board meetings.
       For example: competitor analysis, copy writing, a Pull request with code changes, etc, reformatting stuff, or any micro startup related work that moves those sub projects forward.
-2) $15 USD / Month [https://buy.stripe.com/cN2dTt0kd9bgfuwbII](https://buy.stripe.com/cN2dTt0kd9bgfuwbII)
+2)  MONTHLY_DUES as cash: [https://buy.stripe.com/bIY16HaYR4V0968003](https://buy.stripe.com/bIY16HaYR4V0968003)
+3)  
 
 ## 🧩 What are the Bylaws?
 
