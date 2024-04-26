@@ -2,7 +2,7 @@
 
 **Date:**  __DATE__
 **Time:**   __TIME__
-**Location:**   discord
+**Location:**  google meet: https://meet.google.com/qyk-dkmo-qpw
 
 ## Attendees:   
 - Bob
