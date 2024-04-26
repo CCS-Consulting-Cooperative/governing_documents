@@ -117,3 +117,59 @@ member_dividends = combined_dividend_distribution(distributable_surplus, member_
 print("Combined Dividend Distribution:")
 for member, dividend in member_dividends.items():
     print(f"{member}: {dividend}")
+
+
+########################
+# Royalties-based Dividend Distribution:
+#
+########################
+
+def royalties_dividend_distribution(distributable_surplus, member_royalties):
+    total_royalties = sum(member_royalties.values())
+    member_dividends = {}
+    for member, royalty in member_royalties.items():
+        member_dividends[member] = distributable_surplus * (royalty / total_royalties)
+    return member_dividends
+
+# Example usage
+distributable_surplus = 200_000
+member_royalties = {
+    "Member1": 10_000,
+    "Member2": 15_000,
+    "Member3": 20_000,
+    "Member4": 12_000
+}
+member_dividends = royalties_dividend_distribution(distributable_surplus, member_royalties)
+print("Royalties-based Dividend Distribution:")
+for member, dividend in member_dividends.items():
+    print(f"{member}: {dividend}")
+
+########################
+# Combination of Royalties and Equal Distribution:
+#
+########################
+
+def combined_dividend_distribution(distributable_surplus, member_royalties, royalties_percentage):
+    royalties_surplus = distributable_surplus * royalties_percentage
+    equal_surplus = distributable_surplus * (1 - royalties_percentage)
+    total_royalties = sum(member_royalties.values())
+    member_dividends = {}
+    for member, royalty in member_royalties.items():
+        royalties_dividend = royalties_surplus * (royalty / total_royalties)
+        equal_dividend = equal_surplus / len(member_royalties)
+        member_dividends[member] = royalties_dividend + equal_dividend
+    return member_dividends
+
+# Example usage
+distributable_surplus = 200_000
+member_royalties = {
+    "Member1": 10_000,
+    "Member2": 15_000,
+    "Member3": 20_000,
+    "Member4": 12_000
+}
+royalties_percentage = 0.7
+member_dividends = combined_dividend_distribution(distributable_surplus, member_royalties, royalties_percentage)
+print("Combined Dividend Distribution:")
+for member, dividend in member_dividends.items():
+    print(f"{member}: {dividend}")
