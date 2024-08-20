@@ -41,7 +41,7 @@ To ensure clarity and consistency throughout this document, the following terms 
 
 The articles of incorporation are the documents filed with the state of Minnesota:
 
-See: https://discord.com/channels/1111646437894262844/1116107254068936765/1116107683058159647
+See: https://www.sos.state.mn.us/ for details, or speak with an officer of the cooperative.
 
 ## 🎯 Purpose of CCS Consulting
 
